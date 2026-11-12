@@ -77,7 +77,7 @@ npm run build   # dist/ に出力
 
 ### やりたいこと・未決事項
 - [ ] 実際に使って不便な点を洗い出す
-- [ ] GitHub にリポジトリを作って push し，GitHub Pages で動かす
+- [x] GitHub にリポジトリを作って push し，GitHub Pages で動かす（https://sz5674.github.io/shift-helper/）
 - [ ] 候補：PWA化（ホーム画面に追加），給与明細PDFの読み取り
 
 ### 進捗ログ
@@ -88,3 +88,4 @@ npm run build   # dist/ に出力
 | 2026-10-22 | Claude | `Downloads\apps\shift-helper` へ移動，`起動.bat` を追加 |
 | 2026-10-27 | Claude | この開発メモを追記 |
 | 2026-10-30 | Claude | 提出周期がずれた（次は11/9〜）ため，シフトタブに「開始日」入力を追加．月曜固定もやめた．テスト10件 |
+| 2026-11-12 | Claude | GitHub（sz5674/shift-helper，公開）に push し Pages で公開．テストの時給例を 1,000 円に変更 |
